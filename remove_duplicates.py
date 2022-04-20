@@ -1,6 +1,6 @@
 import hashlib
 
-output_file_path = "entries.sorted.dat"
+output_file_path = "entries.unique.dat"
 input_file_path = "entries.dat"
 
 completed_lines_hash = set()
